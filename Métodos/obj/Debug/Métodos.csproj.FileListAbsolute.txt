@@ -1,0 +1,70 @@
+C:\Users\Samuel Soares\Desktop\JogoDidático\Trabs Método\Métodos\bin\Debug\Métodos.exe.config
+C:\Users\Samuel Soares\Desktop\JogoDidático\Trabs Método\Métodos\obj\Debug\Métodos.csprojResolveAssemblyReference.cache
+C:\Users\Samuel Soares\Desktop\JogoDidático\Trabs Método\Métodos\obj\Debug\Métodos.Form1.resources
+C:\Users\Samuel Soares\Desktop\JogoDidático\Trabs Método\Métodos\obj\Debug\Métodos.Properties.Resources.resources
+C:\Users\Samuel Soares\Desktop\JogoDidático\Trabs Método\Métodos\obj\Debug\Métodos.csproj.GenerateResource.Cache
+C:\Users\Samuel Soares\Desktop\JogoDidático\Trabs Método\Métodos\bin\Debug\Métodos.exe
+C:\Users\Samuel Soares\Desktop\JogoDidático\Trabs Método\Métodos\bin\Debug\Métodos.pdb
+C:\Users\Samuel Soares\Desktop\JogoDidático\Trabs Método\Métodos\obj\Debug\Métodos.exe
+C:\Users\Samuel Soares\Desktop\JogoDidático\Trabs Método\Métodos\obj\Debug\Métodos.pdb
+C:\Users\Samuel Soares\Desktop\Trabs Método\Métodos\bin\Debug\Métodos.exe.config
+C:\Users\Samuel Soares\Desktop\Trabs Método\Métodos\obj\Debug\Métodos.exe
+C:\Users\Samuel Soares\Desktop\Trabs Método\Métodos\obj\Debug\Métodos.pdb
+C:\Users\Samuel Soares\Desktop\Trabs Método\Métodos\bin\Debug\Métodos.exe
+C:\Users\Samuel Soares\Desktop\Trabs Método\Métodos\bin\Debug\Métodos.pdb
+C:\Users\Samuel Soares\Desktop\Trabs Método\Métodos\obj\Debug\Métodos.csprojResolveAssemblyReference.cache
+C:\Users\Samuel Soares\Desktop\Trabs Método\Métodos\obj\Debug\Métodos.Properties.Resources.resources
+C:\Users\Samuel Soares\Desktop\Trabs Método\Métodos\obj\Debug\Métodos.csproj.GenerateResource.Cache
+C:\Users\Samuel Soares\Desktop\Trabs Método\Métodos\obj\Debug\Métodos.menu.resources
+C:\Users\Samuel Soares\Desktop\Trabs Método\Métodos\obj\Debug\Métodos.Addvalor.resources
+C:\Users\Samuel Soares\Desktop\Trabs Método\Métodos\obj\Debug\Métodos.Ordena.resources
+C:\Users\Samuel Soares\Desktop\Trabs Método\Métodos\obj\Debug\Métodos.Tempo.resources
+C:\Users\Luan-PC\Downloads\Trabs Método\Trabs Método\Métodos\bin\Debug\Métodos.exe.config
+C:\Users\Luan-PC\Downloads\Trabs Método\Trabs Método\Métodos\bin\Debug\Métodos.exe
+C:\Users\Luan-PC\Downloads\Trabs Método\Trabs Método\Métodos\bin\Debug\Métodos.pdb
+C:\Users\Luan-PC\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.csprojResolveAssemblyReference.cache
+C:\Users\Luan-PC\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.Addvalor.resources
+C:\Users\Luan-PC\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.Ordena.resources
+C:\Users\Luan-PC\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.menu.resources
+C:\Users\Luan-PC\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.Properties.Resources.resources
+C:\Users\Luan-PC\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.Tempo.resources
+C:\Users\Luan-PC\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.csproj.GenerateResource.Cache
+C:\Users\Luan-PC\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.csproj.CoreCompileInputs.cache
+C:\Users\Luan-PC\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.exe
+C:\Users\Luan-PC\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.pdb
+C:\Users\Samuel Soares\Downloads\Trabs Método\Trabs Método\Métodos\bin\Debug\Métodos.exe.config
+C:\Users\Samuel Soares\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.exe
+C:\Users\Samuel Soares\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.pdb
+C:\Users\Samuel Soares\Downloads\Trabs Método\Trabs Método\Métodos\bin\Debug\Métodos.exe
+C:\Users\Samuel Soares\Downloads\Trabs Método\Trabs Método\Métodos\bin\Debug\Métodos.pdb
+C:\Users\Samuel Soares\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.csprojResolveAssemblyReference.cache
+C:\Users\Samuel Soares\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.Addvalor.resources
+C:\Users\Samuel Soares\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.Ordena.resources
+C:\Users\Samuel Soares\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.menu.resources
+C:\Users\Samuel Soares\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.Properties.Resources.resources
+C:\Users\Samuel Soares\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.Tempo.resources
+C:\Users\Samuel Soares\Downloads\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.csproj.GenerateResource.Cache
+C:\Users\Samuel Soares\Desktop\Trabs Método\Trabs Método\Métodos\bin\Debug\Métodos.exe.config
+C:\Users\Samuel Soares\Desktop\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.exe
+C:\Users\Samuel Soares\Desktop\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.pdb
+C:\Users\Samuel Soares\Desktop\Trabs Método\Trabs Método\Métodos\bin\Debug\Métodos.exe
+C:\Users\Samuel Soares\Desktop\Trabs Método\Trabs Método\Métodos\bin\Debug\Métodos.pdb
+C:\Users\Samuel Soares\Desktop\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.csprojResolveAssemblyReference.cache
+C:\Users\Samuel Soares\Desktop\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.Addvalor.resources
+C:\Users\Samuel Soares\Desktop\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.Ordena.resources
+C:\Users\Samuel Soares\Desktop\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.menu.resources
+C:\Users\Samuel Soares\Desktop\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.Properties.Resources.resources
+C:\Users\Samuel Soares\Desktop\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.Tempo.resources
+C:\Users\Samuel Soares\Desktop\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.csproj.GenerateResource.Cache
+C:\Users\pedro\Desktop\Trabs Método (1)\Trabs Método\Trabs Método\Métodos\bin\Debug\Métodos.exe.config
+C:\Users\pedro\Desktop\Trabs Método (1)\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.exe
+C:\Users\pedro\Desktop\Trabs Método (1)\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.pdb
+C:\Users\pedro\Desktop\Trabs Método (1)\Trabs Método\Trabs Método\Métodos\bin\Debug\Métodos.exe
+C:\Users\pedro\Desktop\Trabs Método (1)\Trabs Método\Trabs Método\Métodos\bin\Debug\Métodos.pdb
+C:\Users\pedro\Desktop\Trabs Método (1)\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Desktop\Trabs Método (1)\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.Addvalor.resources
+C:\Users\pedro\Desktop\Trabs Método (1)\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.Ordena.resources
+C:\Users\pedro\Desktop\Trabs Método (1)\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.menu.resources
+C:\Users\pedro\Desktop\Trabs Método (1)\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.Properties.Resources.resources
+C:\Users\pedro\Desktop\Trabs Método (1)\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.Tempo.resources
+C:\Users\pedro\Desktop\Trabs Método (1)\Trabs Método\Trabs Método\Métodos\obj\Debug\Métodos.csproj.GenerateResource.Cache
